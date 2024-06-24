@@ -1,7 +1,7 @@
 <?php
 require_once 'Product.php';
 require_once 'Database.php';
-require_once 'JsonFileAdapter.php';
+require_once 'fileAdapter.php';
 require_once 'ProductRepository.php';
 
 // Utilisation avec la base de données
